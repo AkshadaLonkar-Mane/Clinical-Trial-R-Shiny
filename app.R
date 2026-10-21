@@ -19,7 +19,7 @@ ui <- fluidPage(
 	tableOutput("results"),
 
 	h3("Average change from Baseline"),
-	textOutput("Average")
+	textOutput("average")
 )
 
 
